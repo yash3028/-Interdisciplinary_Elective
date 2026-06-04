@@ -1,0 +1,4 @@
+Model,Accuracy,CO2
+LR,0.82,0.9
+RF,0.87,3.8
+XGB,0.9,7.3
